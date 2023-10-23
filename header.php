@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Kiwi Shop</title>
+    <title>Toy Store</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css">
@@ -22,7 +22,7 @@
    <!--navbar-->
     <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
         <div class="container-fluid">
-            <a href="index1.php" class="navbar-brand">Toy store</a>
+            <a href="index.php" class="navbar-brand">Toy store</a>
             <button type="btn" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navsup">
                 <span class="navbar-toggler-icon"></span>
             </button>
