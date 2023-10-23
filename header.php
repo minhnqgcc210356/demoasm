@@ -9,14 +9,16 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css"/>
-<style>
+    <link rel="stylesheet" href="https://getbootstrap.com/docs/5.2/components/card/">
+    <link rel="stylesheet" href="style.css">
+<!-- <style>
  .b-example-divider{
     height: 3rem;
-    background-color: rgba(red, green, blue, alpha);
+    background-color:rgba(255, 99, 71);
     border: solid rgba(red, green, blue, alpha);
     border-width: 1px 0;
     box-shadow: inset 0 .5em 1.5em rgba(red, green, blue, alpha);
- }
+ } -->
 </style>   
 <body>
    <!--navbar-->
