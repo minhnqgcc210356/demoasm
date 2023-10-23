@@ -31,7 +31,7 @@
                 <div class="navbar-nav">
                     <a href="search.php" class="nav-link">Search</a>
                     <a href="cart.php" class="nav-link">Cart</a>
-                    <a href="allproduct.php" class="nav-link"> Product</a>
+                    <a href="index.php" class="nav-link"> Product</a>
                     <!-- <div class="dropdown">
                         <a href="allproduct.php" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Management</a>
                         <div class="dropdown-menu">
