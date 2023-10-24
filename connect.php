@@ -13,8 +13,10 @@ class Connect{
     }
 
     // Option 1:mysqli
-    function connectToMySQLi(){
-        $conn = new mysqli($this->server, $this->username, $this->password, $this->dbName);    
+    function connectToMySQL():mysqli{
+    $conn = new mysqli($this->server,
+    $this->username, $this->password, $this->dbName);
+    
     if($conn->connect_error){
         die("Failed ".$conn->connect_error);
     }else{
