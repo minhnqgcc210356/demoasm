@@ -16,7 +16,7 @@ if(isset($_POST['btnLogin'])){
         if ($numrow==1){
             echo "Login successfully";
             setcookie("cc_username",$row['name'],time()+3600);
-            header("Location: home.php");
+            header("Location: index.php");
         } else {
             echo "Something wrong with your info <br>";
         }
