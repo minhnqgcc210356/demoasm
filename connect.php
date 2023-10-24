@@ -8,7 +8,7 @@ class Connect{
     {
         $this->server   ="uzb4o9e2oe257glt.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
         $this->username ="gpfkkk7dv906okev";
-        $this->password ="knhgs7ixnuwy7nau";
+        $this->password ="tdm5dwai7fd6d5qs";
         $this->dbName   ="n67aepjbzgvyqgxd";
     }
 
