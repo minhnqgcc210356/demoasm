@@ -37,4 +37,5 @@ class Connect{
 }
 $c = new Connect();
 $c->connectToPDO();
+$c->connectToMySQL();
 ?>
