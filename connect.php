@@ -8,7 +8,7 @@ class Connect{
     {
         $this->server   ="uzb4o9e2oe257glt.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
         $this->username ="gpfkkk7dv906okev";
-        $this->password ="pnzdlr6jytnwz5n3";
+        $this->password ="iwxzglnmvkygtllc";
         $this->dbName   ="n67aepjbzgvyqgxd";
     }
 
@@ -37,5 +37,5 @@ class Connect{
 }
 $c = new Connect();
 $c->connectToPDO();
-$c->connectToMySQL();
+// $c->connectToMySQL();
 ?>
