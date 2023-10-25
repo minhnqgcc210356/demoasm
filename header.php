@@ -70,7 +70,7 @@
         </div>
     </nav>
     <section class="py-5 text-center container"
-            style="background-image:url ('https://cdn.hpdecor.vn/wp-content/uploads/2022/05/cua-hang-do-choi-tre-em-3-1.jpg'); height: 600px;">
+            style="background-image:url ('https://media-api.advertisingvietnam.com/oapi/v1/media?uuid=f3f85054-a4a7-4bfe-a602-a7c1e61da085&type=image');height: 700px; width: 500vh">
         <div class="row py-lg-5">
             <div class="col-lg-6 col-md-8 mx-auto">
                 <h1 class="fw-light">Toy Store</h1>

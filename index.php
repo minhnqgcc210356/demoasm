@@ -15,14 +15,14 @@ $re=$dbLink->query($sql);
 
 if($re->num_rows>0){
 ?>
-<section class="py-5 text-center container"
+<!-- <section class="py-5 text-center container"
         style="background-image: url('https://media-api.advertisingvietnam.com/oapi/v1/media?uuid=f3f85054-a4a7-4bfe-a602-a7c1e61da085&type=image');height: 700px; width: 500vh" >
         <div class="row py-ly-5">
             <div class="col-lg-6 col-md-8 mx-auto">
                 <h1 class="fw-light colorblack">Toy Store</h1>
             </div>
         </div>
-    </section>
+    </section> -->
 <div class="container-fluid"></div>
 <div class="row">
 <?php
