@@ -1,9 +1,9 @@
--- phpMyAdmin SQL Dump
+  -- phpMyAdmin SQL Dump
 -- version 5.2.0
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Oct 25, 2023 at 06:17 AM
+-- Generation Time: Oct 26, 2023 at 04:30 AM
 -- Server version: 10.4.27-MariaDB
 -- PHP Version: 8.2.0
 
@@ -142,7 +142,9 @@ CREATE TABLE `store` (
 --
 
 INSERT INTO `store` (`stoid`, `address`, `phone`, `gmail`) VALUES
-(1, 'An Giang', '024564928', 'asm1644@gmail.com');
+(1, 'An Giang', '024564928', 'asm1644@gmail.com'),
+(2, 'Can Tho', '013123455', 'cantho225@gmail.com'),
+(3, 'Hau Giang', '085434674', 'haucanh235@gmail.com');
 
 -- --------------------------------------------------------
 
@@ -241,7 +243,7 @@ ALTER TABLE `product`
 -- AUTO_INCREMENT for table `store`
 --
 ALTER TABLE `store`
-  MODIFY `stoid` int(20) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
+  MODIFY `stoid` int(20) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=4;
 
 --
 -- AUTO_INCREMENT for table `supplier`
